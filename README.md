@@ -8,7 +8,7 @@ Dependency : https://github.com/overextended/ox_lib
 
 FR : Système de gants de boxe avec différents points d'activation (idle 0.0 ms)
 
-Tools :
+Template :
 {x=,y=,z=,h=,type=,distance=,size=, r=, g=, b=,text=""},
 
 Ici "type" est l'index de drawmarker, "distance" est la distance d'activation et "size" est la taille de de drawmarker
