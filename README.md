@@ -9,5 +9,7 @@ FR :
 
 -- Tools :
 -- {x=,y=,z=,h=,type=,distance=,size=, r=, g=, b=,text=""},
+
 -- Ici "type" est l'index de drawmarker, "distance" est la distance d'activation et "size" est la taille de de drawmarker
+
 -- Surtout ne pas oublier d'instalelr ox_lib pour que cela fonctionne
