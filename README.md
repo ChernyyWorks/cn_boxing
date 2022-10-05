@@ -3,6 +3,8 @@
 A simple boxing gloves script for fivem.
 Check config.lua for more informations about the script.
 
+Dependency : https://github.com/overextended/ox_lib
+
 
 FR :
 -- Système de gants de boxe avec différents points d'activation (idle 0.0 ms)
